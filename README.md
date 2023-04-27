@@ -24,9 +24,9 @@ When the user clicks the Write icon in the navigation bar at the top of the page
 
 Technology Used
 
-- Visual Studio Code
+-Visual Studio Code
 
-- Node.js
+-Node.js
 
 - Express package
 
