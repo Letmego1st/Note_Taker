@@ -21,19 +21,21 @@ When an existing note in the list in the left-hand column is clicked, then that 
 When the user clicks the Write icon in the navigation bar at the top of the page, then they are presented with empty field to enter a new note title and text in the right-hand column.
 
 
+
 Technology Used
 
-Visual Studio Code
+- Visual Studio Code
 
-Node.js
+- Node.js
 
-Express package
+- Express package
 
-GitHub GUI
+- GitHub GUI
 
-GitHub
+- GitHub
 
-Heroku
+- Heroku
+
 
 
 Links
@@ -43,8 +45,11 @@ https://github.com/Letmego1st/Note_Taker
 Deployed Application
 
 
+
 Screenshots
+
 ![11-express-homework-demo-01](https://user-images.githubusercontent.com/119816112/234964148-40540f92-ba25-4d82-9d72-42734c5187c8.png)
+
 
 
 Usage
@@ -58,7 +63,9 @@ Enter your note's title and text into the appropriate fields in the right-hand p
 Click the Save icon in the navigation bar in the top right of the screen.
 
 
+
 Questions
+
 If you have any questions about the repo you can open an issue.
 
 You can find more of my work at Github
