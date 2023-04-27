@@ -38,15 +38,17 @@ Heroku
 
 Links
 
-GitHub Repository
+https://github.com/Letmego1st/Note_Taker
 
 Deployed Application
 
 
 Screenshots
-noteTakerSS.png
+![11-express-homework-demo-01](https://user-images.githubusercontent.com/119816112/234964148-40540f92-ba25-4d82-9d72-42734c5187c8.png)
+
 
 Usage
+
 Open the website.
 
 Click the Get Started button.
