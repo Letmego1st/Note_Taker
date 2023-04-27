@@ -4,7 +4,7 @@
 
 Week 11 homework Full-Stack Web Development
 
-Description
+**Description**
 
 The goal of this project was to modify starter code to create an application called Note Taker that can be used to write and save notes using an Express.js back end to retrieve note data from a JSON file. Our main tasks were to ensure that:
 
@@ -38,7 +38,7 @@ When the user clicks the Write icon in the navigation bar at the top of the page
 
 
 
-Links
+**Links**
 
 https://github.com/Letmego1st/Note_Taker
 
@@ -46,13 +46,13 @@ Deployed Application
 
 
 
-Screenshots
+**Screenshots**
 
 ![11-express-homework-demo-01](https://user-images.githubusercontent.com/119816112/234964148-40540f92-ba25-4d82-9d72-42734c5187c8.png)
 
 
 
-Usage
+**Usage**
 
 Open the website.
 
@@ -64,7 +64,7 @@ Click the Save icon in the navigation bar in the top right of the screen.
 
 
 
-Questions
+**Questions**
 
 If you have any questions about the repo you can open an issue.
 
