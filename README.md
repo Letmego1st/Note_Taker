@@ -44,7 +44,7 @@ Deployed Application
 
 
 Screenshots
-![](noteTakerSS.png)
+noteTakerSS.png
 
 Usage
 Open the website.
