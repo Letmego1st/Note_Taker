@@ -5,6 +5,7 @@ Note Taker
 Week 11 homework Full-Stack Web Development
 
 Description
+
 The goal of this project was to modify starter code to create an application called Note Taker that can be used to write and save notes using an Express.js back end to retrieve note data from a JSON file. Our main tasks were to ensure that:
 
 When opening the Note Taker, the user is presented with a landing page with links to a note page.
@@ -23,20 +24,27 @@ When the user clicks the Write icon in the navigation bar at the top of the page
 Technology Used
 
 Visual Studio Code
+
 Node.js
+
 Express package
+
 GitHub GUI
+
 GitHub
+
 Heroku
 
 
 Links
+
 GitHub Repository
+
 Deployed Application
 
 
 Screenshots
-![](image.png)
+![](https://github.com/Letmego1st/Note_Taker/raw/main/Assets/HomeScreenshot.png)
 
 Usage
 Open the website.
@@ -46,8 +54,6 @@ Click the Get Started button.
 Enter your note's title and text into the appropriate fields in the right-hand portion of the screen.
 
 Click the Save icon in the navigation bar in the top right of the screen.
-
-
 
 
 Questions
