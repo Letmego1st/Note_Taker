@@ -44,7 +44,7 @@ Deployed Application
 
 
 Screenshots
-![](https://github.com/Letmego1st/Note_Taker/raw/main/Assets/HomeScreenshot.png)
+![](noteTakerSS.png)
 
 Usage
 Open the website.
