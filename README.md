@@ -42,7 +42,7 @@ When the user clicks the Write icon in the navigation bar at the top of the page
 
 https://github.com/Letmego1st/Note_Taker
 
-Deployed Application
+https://letmego1st.github.io/Note_Taker/
 
 
 
