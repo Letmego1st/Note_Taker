@@ -1,6 +1,6 @@
 # Note_Taker
 
-Note Taker
+**Note Taker**
 
 Week 11 homework Full-Stack Web Development
 
@@ -22,19 +22,19 @@ When the user clicks the Write icon in the navigation bar at the top of the page
 
 
 
-Technology Used
+**Technology Used**
 
 -Visual Studio Code
 
 -Node.js
 
-- Express package
+-Express package
 
-- GitHub GUI
+-GitHub GUI
 
-- GitHub
+-GitHub
 
-- Heroku
+-Heroku
 
 
 
