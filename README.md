@@ -50,6 +50,8 @@ https://whispering-beyond-11478.herokuapp.com/notes
 
 ![11-express-homework-demo-01](https://user-images.githubusercontent.com/119816112/234964148-40540f92-ba25-4d82-9d72-42734c5187c8.png)
 
+![](https://github.com/ThomasCalle/Thomas-Express-JS-Note-Taker/blob/main/public/assets/images/Express-JS-Note-Taker.GIF?raw=true)
+
 
 
 **Usage**
